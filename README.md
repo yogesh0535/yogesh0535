@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogesh0535
 - 👀 I’m interested in Artificial Intelligence..
-- 🌱 I’m currently learning Express.js
-- 💞️ I’m looking to collaborate with you on major projects.
+- 🌱 Learning Django
+- 💞️ I’m looking to collaborate on major projects.
 - 📫 How to reach me : yogeshbhardwaj55581@gmail.com
 - 😄 Pronouns: Yogesh bhardwaj
 - ⚡ Fun fact: ...
